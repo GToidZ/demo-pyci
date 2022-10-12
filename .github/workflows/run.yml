@@ -29,4 +29,4 @@ jobs:
       - name: Lint with flake8
         run: flake8 --count ./statistics.py
       - name: Test with unittest
-        run: python -m unittest .
+        run: python -m unittest
