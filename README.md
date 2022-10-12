@@ -1,6 +1,6 @@
 Continuous Integration Demo
 ============================
-[![Build Status](https://travis-ci.com/jbrucker/demo-pyci.svg?branch=master)](https://travis-ci.com/jbrucker/demo-pyci)
+<!--Todo: Add my own badge-->
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 Create a repository on Github, then use Github Actions to build and test it.
